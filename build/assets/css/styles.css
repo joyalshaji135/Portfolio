@@ -14,7 +14,7 @@
 
 /* ===== COLORS ===== */
 :root{
-  --first-color: #5f4dee;
+  --first-color: #1f1291;
   --second-color: #363636;
   --third-color: rgb(0, 0, 0);
   --fourth-color: #ffffff;
@@ -35,7 +35,7 @@
 
 /* ===== VARIABLES DARK MODE =====*/
 body.dark-theme{
-  --first-color: #5f4dee;
+  --first-color: #1f1291;
   --second-color: #ffffff;
   --third-color: rgb(255, 255, 255);
   --fourth-color: #ffffff;
