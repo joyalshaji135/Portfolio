@@ -2587,5 +2587,25 @@ padding: 5px 10px;
   transition: all .3s ease;
 }
 
+.buttoncv2{
+  display: inline-block;
+  background-color: var(--first-color);
+  color: #FFF;
+  padding: .75rem 2.5rem;
+  font-weight: var(--font-semi);
+  border-radius: 1rem;
+  transition-duration: 0.2s;
+  transition-timing-function: ease-in-out;
+  border: solid var(--first-color) 2px;
+  width: 100%;
+  text-align: center;
+}
+
+.buttoncv2:hover{
+  box-shadow: 0 10px 36px rgba(0, 0, 0, 0.15);
+  color: var(--first-color);
+  background-color: var(--nav-color);
+}
+
 
 
